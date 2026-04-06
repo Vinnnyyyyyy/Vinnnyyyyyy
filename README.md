@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Vincent
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Future+Full+Stack+Developer;Always+Learning+New+Things)
+
 💻 Aspiring Developer | 🎯 Learning Web Development  
 🚀 Currently working on: ThreadShop  
 📍 Philippines  
@@ -33,7 +35,7 @@ An e-commerce clothing platform I'm building.
 ## ⚡ Fun Fact
 I just started coding and already building real projects 💪
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Future+Full+Stack+Developer;Always+Learning+New+Things)
+
 
 ![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
