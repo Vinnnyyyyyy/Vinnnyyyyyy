@@ -40,4 +40,3 @@ I just started coding and already building real projects 💪
 ![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
