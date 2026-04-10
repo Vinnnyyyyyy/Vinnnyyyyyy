@@ -1,42 +1,71 @@
-# 👋 Hi, I'm Vincent
+# 👋 Hey, I'm Vincent  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Future+Full+Stack+Developer;Always+Learning+New+Things)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Future+Full+Stack+Developer;Building+Real+Projects;Always+Learning+🚀" />
+</p>
 
-💻 Aspiring Developer | 🎯 Learning Web Development  
-🚀 Currently working on: ThreadShop  
-📍 Philippines  
+---
+
+## 💻 About Me
+- 🎯 Aspiring **Full Stack Developer**
+- 🚀 Currently building: **ThreadShop** (E-commerce Platform)
+- 📚 Learning **Laravel, Backend Development & APIs**
+- 🔥 Passionate about creating real-world projects
+- 📍 Based in Philippines  
 
 ---
 
 ## 🛠️ Tech Stack
-- ⚡ HTML, CSS, JavaScript
-- 🎨 Tailwind CSS
-- 🧠 Learning Laravel & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,laravel,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Projects
-🔹 **ThreadShop**  
-An e-commerce clothing platform I'm building.
+## 🚀 Featured Project
+### 🛍️ ThreadShop
+> A modern **clothing e-commerce platform** built with web technologies.  
+- 🛒 Product browsing & UI design  
+- 💳 Future plans: Payment integration  
+- 🔐 Backend (Laravel) coming soon  
 
 ---
 
 ## 📊 GitHub Stats
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
-- Facebook: (https://www.facebook.com/vincent.oyan.2025)
-- Email: (voyan111@gmail.com)
+## 🌐 Connect With Me
+<p>
+  <a href="https://www.facebook.com/vincent.oyan.2025">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:voyan111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-I just started coding and already building real projects 💪
+> I just started coding — and I'm already building real-world projects 💪🔥  
 
+---
 
+## 🧠 Current Goals
+- ✅ Build full-stack applications  
+- ✅ Master Laravel & APIs  
+- 🔄 Improve UI/UX design skills  
+- 🚀 Launch ThreadShop publicly  
 
-![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
+## 🔥 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blue&style=flat" />
+</p>
